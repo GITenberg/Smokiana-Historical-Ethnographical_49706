@@ -1,4 +1,8 @@
 _repo: Smokiana-Historical-Ethnographical_49706
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49706-h/images/cover.jpg
 creator:
   author:
     agent_name: Pritchett, R. T. (Robert Taylor)
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '34159'
     url: http://www.gutenberg.org/2009/agents/34159
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49706#Smokiana-Historical-Ethnographical
 gutenberg_issued: '2015-08-15'
 gutenberg_type: Text
 identifiers:
